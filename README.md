@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋, I'm [Shubham Kumar Yadav]
+# Hi 👋, I'm Shubham Kumar Yadav
 
 ### A passionate Full Stack Developer
 
-- 🔭 I’m currently working on [Vediotube]
-- 🌱 I’m currently learning [React.js]
-- 💬 Ask me about [BackEnd with Node, Express and Mongoose]
-- 📫 How to reach me: [shubhamkumar290103@gmail.com]
+- 🔭 I’m currently working on Vediotube
+- 🌱 I’m currently learning React.js
+- 💬 Ask me about BackEnd with Node, Express and Mongoose
+- 📫 How to reach me: shubhamkumar290103@gmail.com
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shubhamkryadav)
@@ -36,4 +36,10 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ### 📈 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Shubzcoder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubzcoder&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+<!--![GitHub Streak](https://streak-stats.demolab.com?user=shubzcoder&theme=radical&cache_buster=1) -->
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubzcoder&layout=compact&theme=radical)
+
