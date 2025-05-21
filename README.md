@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm [Shubham Kumar Yadav]
 
-### A passionate Full Stack Developer from [Your Country]
+### A passionate Full Stack Developer
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Technologies or Skills]
-- 🤝 I’m looking for help with [Projects or Collaborations]
-- 💬 Ask me about [Topics]
-- 📫 How to reach me: [Your Email]
+- 🔭 I’m currently working on [Vediotube]
+- 🌱 I’m currently learning [React.js]
+- 💬 Ask me about [BackEnd with Node, Express and Mongoose]
+- 📫 How to reach me: [shubhamkumar290103@gmail.com]
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shubhamkryadav)
